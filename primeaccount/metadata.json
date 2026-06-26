@@ -1,0 +1,6 @@
+{
+  "name": "PrimeAccount",
+  "description": "Secure and modern platform for gaming accounts with clean MVVM architecture.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

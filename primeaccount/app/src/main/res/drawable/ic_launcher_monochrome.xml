@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Clean themed/monochrome shield shape of PrimeAccount -->
+    <path
+        android:fillColor="#FF000000"
+        android:pathData="M54,20 C54,20 85,28 85,28 C85,28 90,68 54,92 C18,68 23,28 23,28 C23,28 54,20 54,20 Z" />
+    
+    <!-- Monochrome cutout for the stylized P letter inside the shield -->
+    <path
+        android:fillColor="#FFFFFFFF"
+        android:pathData="M48,35 L48,55 L54,55 L54,48 L60,48 C64,48 65,45 65,42.5 C65,40 64,35 60,35 Z M54,39 L59,39 C61,39 61.5,40 61.5,41.5 C61.5,43 61,44 59,44 L54,44 Z" />
+
+    <!-- Monochrome cutout for the video game controller inside the shield -->
+    <path
+        android:fillColor="#FFFFFFFF"
+        android:pathData="M54,56 C44,56 40,62 40,68 C40,74 44,78 50,78 C52,78 54,76 54,74 C54,76 56,78 58,78 C64,78 68,74 68,68 C68,62 64,56 54,56 Z M47,68 L45,68 L45,66 L43,66 L43,68 L41,68 L41,70 L43,70 L43,72 L45,72 L45,70 L47,70 Z M63,67 C63.5,67 64,67.5 64,68 C64,68.5 63.5,69 63,69 C62.5,69 62,68.5 62,68 C62,67.5 62.5,67 63,67 Z M61,70 C61.5,70 62,70.5 62,71 C62,71.5 61.5,72 61,72 C60.5,72 60,71.5 60,71 C60,70.5 60.5,70 61,70 Z M65,70 C65.5,70 66,70.5 66,71 C66,71.5 65.5,72 65,72 C64.5,72 64,71.5 64,71 C64,70.5 64.5,70 65,70 Z M63,73 C63.5,73 64,73.5 64,74 C64,74.5 63.5,75 63,75 C62.5,75 62,74.5 62,74 C62,73.5 62.5,73 63,73 Z" />
+</vector>

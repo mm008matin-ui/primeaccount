@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">پرایم اکانت</string>
+    <string name="home_title">🏠 خانه</string>
+    <string name="listings_title">📋 آگهیها</string>
+    <string name="create_listing_title">➕ ثبت آگهی</string>
+    <string name="messages_title">💬 پیامها</string>
+    <string name="profile_title">👤 پروفایل</string>
+    <string name="settings_title">تنظیمات</string>
+    <string name="notifications_title">اعلان‌ها</string>
+    <string name="games_title">بازی‌ها</string>
+    <string name="language_title">زبان</string>
+    <string name="login_title">ورود</string>
+    <string name="register_title">ثبت نام</string>
+    <string name="email_placeholder">ایمیل</string>
+    <string name="password_placeholder">رمز عبور</string>
+    <string name="name_placeholder">نام و نام خانوادگی</string>
+    <string name="submit">تایید</string>
+    <string name="cancel">انصراف</string>
+    <string name="loading">در حال بارگذاری...</string>
+    <string name="empty_state">هیچ موردی یافت نشد</string>
+    <string name="error_state">خطایی رخ داده است. لطفا مجددا تلاش کنید.</string>
+    <string name="logout">خروج از حساب</string>
+    <string name="select_language">انتخاب زبان</string>
+    <string name="persian">فارسی</string>
+    <string name="english">English</string>
+    <string name="splash_subtitle">بستر امن معاملات اکانت‌های گیمینگ</string>
+    <string name="get_started">شروع کار</string>
+    <string name="no_account">حساب کاربری ندارید؟ ثبت نام کنید</string>
+    <string name="already_have_account">حساب کاربری دارید؟ وارد شوید</string>
+</resources>
